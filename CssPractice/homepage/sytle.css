@@ -1,0 +1,39 @@
+header{
+    background-color: #fff5ee;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 0 60px;
+    justify-content:center;
+}
+.last{
+    margin-right:100px; ;
+}
+h1{
+    list-style: none;
+    display: flex;
+    justify-content:center ;
+
+}
+
+.blog-contens{
+    display: flex;
+    width: 100%;
+    gap:0 20px;
+    justify-content:center ;
+    margin: 10px;
+}
+.blog{
+    width: 30%;
+
+}
+img{
+    width: 100%;
+}
+ 
+
+body{
+    font-family: 'Mochiy Pop One', sans-serif;
+}
